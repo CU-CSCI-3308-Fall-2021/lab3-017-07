@@ -1,5 +1,3 @@
-Project Team Members: 
-
 # lab3-017-07
 Project Team Members:
 Ryan Bishop 
